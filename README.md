@@ -7,6 +7,10 @@
 [![fjrXTR's github stats](https://github-readme-stats.vercel.app/api?username=fjrXTR&theme=dark&layout=compact)](https://github.com/fajar3109)
 ![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fjrXTR&theme=dark&layout=compact)
 
+<p align="center">
+  <img src="https://tenor.com/id/view/majo-no-tabitabi-the-journey-of-elaina-elaina-sparkle-amazed-gif-18827847"><br>
+</p>
+
 <!--
 **fjrXTR/fjrXTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
