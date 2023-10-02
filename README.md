@@ -8,7 +8,7 @@
 ![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fjrXTR&theme=dark&layout=compact)
 
 <p align="center">
-  <img src="https://tenor.com/id/view/majo-no-tabitabi-the-journey-of-elaina-elaina-sparkle-amazed-gif-18827847"><br>
+  <img src="https://github.com/fjrXTR/fjrXTR/raw/main/majo-no-tabitabi-the-journey-of-elaina.gif"><br>
 </p>
 
 <!--
