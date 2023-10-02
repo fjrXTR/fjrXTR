@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm fjrXTR! 👋
+
+- 🌱 I’m currently learning how to cook android
+- 😄 I'm not a dev, just having fun in github
+- 🔭 I’m working on Maintainer <a href="https://github.com/cherishOS">CherishOS</a> & <a href="https://nusantararom.org/">Nusantara Project</a>
+
+[![fjrXTR's github stats](https://github-readme-stats.vercel.app/api?username=fjrXTR&theme=dark&layout=compact)](https://github.com/fajar3109)
+![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fjrXTR&theme=dark&layout=compact)
 
 <!--
 **fjrXTR/fjrXTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
