@@ -1,5 +1,11 @@
 ### Hi there, I'm fjrXTR! 👋
 
+<h4 align=center>Environments</h4>
+<p align=center>
+<a href="https://www.android.com/android-13"><img src="https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff"></a>
+<a href="https://www.microsoft.com/windows/windows-8.1"><img src="https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows8.1&logoColor=ffffff"></a>
+</p>
+
 - 🌱 I’m currently learning how to cook android
 - 😄 I'm not a dev, just having fun in github
 - 🔭 I’m working on Maintainer <a href="https://github.com/cherishOS">CherishOS</a> & <a href="https://nusantararom.org/">Nusantara Project</a>
@@ -10,18 +16,3 @@
 <p align="center">
   <img src="https://github.com/fjrXTR/fjrXTR/raw/main/majo-no-tabitabi-the-journey-of-elaina.gif"><br>
 </p>
-
-<!--
-**fjrXTR/fjrXTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
