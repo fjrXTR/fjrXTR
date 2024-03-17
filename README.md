@@ -6,9 +6,8 @@
 
 <h4 align=center>Environments & Device</h4>
 <p align=center>
-<a href="https://www.android.com/android-11"><img src="https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff"></a>
-<a href="https://www.microsoft.com/windows/windows-8.1"><img src="https://img.shields.io/badge/Windows%208.1-00adef?style=flat-square&logo=windows10&logoColor=ffffff"></a>
-<a href="https://www.po.co.id/id/product/poco-m4-pro/"><img src="https://img.shields.io/badge/POCO%20M4%20Pro-ffd400?style=flat-square&logo=xiaomi&logoColor=000000"></a>
+<a href="https://www.android.com/android-13"><img src="https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff"></a>
+<a href="https://www.microsoft.com/windows/windows10"><img src="https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows10&logoColor=ffffff"></a>
 
 - 🌱 I’m currently learning how to cook android & learning some program language like C, Java, Python, and etc
 - 😄 I'm not a dev, just having fun in github
