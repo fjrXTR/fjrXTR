@@ -9,7 +9,7 @@
 <a href="https://www.android.com/android-13"><img src="https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff"></a>
 <a href="https://www.microsoft.com/windows/windows10"><img src="https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows10&logoColor=ffffff"></a>
 
-- 🌱 I’m currently learning how to cook android & learning some program language like C, Java, Python, and etc
+- 🌱 I’m currently learning how to cook android 
 - 😄 I'm not a dev, just having fun in github
 - 🔭 I’m working on Maintainer <a href="https://github.com/cherishOS">CherishOS</a> & <a href="https://nusantararom.org/">Nusantara Project</a>
 
